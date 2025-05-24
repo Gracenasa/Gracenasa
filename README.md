@@ -24,9 +24,12 @@ Social Media:
 
 ## 📊 Technical Skills
 * **SQL**
-* **LOOKER**
+* **Looker Studio & Power BI**
 * **Visualisation**
 * **RStudio**
+* **Python**
+* **Apache Airflow**
+* **Ms Excel**
 
 
 
